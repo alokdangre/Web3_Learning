@@ -1,4 +1,5 @@
 // Using @nodes/ed25519
+// generating solana EdDSA --> Edwards-curev Digital Signature Algorithm
 
 import * as ed from "@noble/ed25519";
 
