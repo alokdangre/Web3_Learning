@@ -24,3 +24,7 @@ async function main() {
 }
 
 main();
+
+// studyurl ->  https://projects.100xdevs.com/tracks/public-private-keys/Public-Key-Cryptography-6
+
+// notion --> https://www.notion.so/Frontend-vs-Backend-HTTP-Servers-219d8456a52a81ac98ded0f073d91665
